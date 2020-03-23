@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:cjxd8-manual-test1/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: dgozalo@cloudbees.com
+  token: vault:cjxd8-manual-test1/pipelineUser:token
+  username: dgozalo
+prow:
+  hmacToken: vault:cjxd8-manual-test1/prow:hmacToken
