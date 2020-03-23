@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dgozalo
+    provider: github
+    repository: golang-cjxd8-test1
+  name: dgozalo-golang-cjxd8-test1
+spec:
+  description: Imported application for dgozalo/golang-cjxd8-test1
+  httpCloneURL: https://github.com/dgozalo/golang-cjxd8-test1.git
+  org: dgozalo
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: golang-cjxd8-test1
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dgozalo/golang-cjxd8-test1.git
