@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: dgozalo
+  repo: golang-cjxd8-test1
+  url: https://github.com/dgozalo/golang-cjxd8-test1.git
+  version: ""
+  versionURL: ""
